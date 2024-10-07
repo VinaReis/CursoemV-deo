@@ -1,4 +1,4 @@
-window.alert('Aiiii meu cu');
-window.confirm('Come meu cu');
-window.prompt('Você me fode gostoso?')
-console.log("Ele gosta")
+
+window.alert('Meu primeiro Alerta');
+window.confirm('Muito dinheiro'); // No futuro
+window.prompt('O Gustavo é top né?') // Ele é mt massa
