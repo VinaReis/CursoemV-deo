@@ -1,0 +1,7 @@
+ns= str(input('Digite seu nome completo: '))
+er= str(input('Digite seu endereço: '))
+tel= str(input('Digite seu telefone: '))
+print('-=-'*20)
+print(f'\nSeu nome completo é: {ns}')
+print(f'Seu endereço é: {er}')
+print(f'Seu telefone é: {tel}')

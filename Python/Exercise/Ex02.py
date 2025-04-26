@@ -1,0 +1,5 @@
+un = str(input('Digite seu nome: '))
+er = str(input('Digite seu endereço: '))
+print('-=-'*20)
+print(f'\nSeu nome é: {un}')
+print(f'Seu endereço é: {er}')
